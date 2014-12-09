@@ -1,0 +1,83 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="986" measuredH="594" mockupW="589" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="397" y="21" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="429" y="204" w="218" h="-1" measuredW="218" measuredH="26" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>18</size>
+        <text>Your%20alert%20has%20been%20sent%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::RoundButton" x="424" y="464" w="109" h="45" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>home%26bm%3Bhome.bmml%26bm%3Bhome.bmml%26bm%3Bhome.bmml</href>
+        <icon>HomeMobileIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C443%2C136%2C488%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%2213%22/%3E</map>
+        <shape>roundRect</shape>
+        <text>%20%20%20Home%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::RoundButton" x="451" y="120" w="201" h="32" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <italic>false</italic>
+        <shape>roundRect</shape>
+        <size>18</size>
+        <text>Lost%20And%20Found%20Child</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::RoundButton" x="424" y="121" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>HLinesIcon%7Csmall</icon>
+        <shape>rectangle</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::RoundButton" x="533" y="464" w="119" h="45" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>sign_in%26bm%3Bsign_in.bmml%26bm%3Bsign_in.bmml%26bm%3Bsign_in.bmml</href>
+        <icon>ContactIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22136%2C443%2C255%2C488%22%20href%3D%22sign_in.bmml%22%20alt%3D%22sign_in%22%20id%3D%2216%22/%3E</map>
+        <shape>roundRect</shape>
+        <text>My%20account</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::RoundButton" x="443" y="268" w="176" h="54" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16167531</color>
+        <icon>PhoneDialIcon%7Csmall</icon>
+        <shape>roundRect</shape>
+        <size>20</size>
+        <text>Call%20the%20police</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::RoundButton" x="451" y="411" w="174" h="32" measuredW="32" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <href>feedback%26bm%3Bfeedback.bmml%26bm%3Bfeedback.bmml%26bm%3Bfeedback.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2254%2C390%2C228%2C422%22%20href%3D%22feedback.bmml%22%20alt%3D%22feedback%22%20id%3D%2220%22/%3E</map>
+        <shape>roundRect</shape>
+        <text>Send%20the%20feedback</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::PointyButton" x="598" y="414" w="21" h="-1" measuredW="30" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <direction>right</direction>
+        <href>feedback%26bm%3Bfeedback.bmml%26bm%3Bfeedback.bmml%26bm%3Bfeedback.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22201%2C393%2C222%2C420%22%20href%3D%22feedback.bmml%22%20alt%3D%22feedback%22%20id%3D%2221%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::StickyNote" x="794" y="194" w="192" h="81" measuredW="109" measuredH="123" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Komunikat%20po%20wyslaniu%20alertu.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
